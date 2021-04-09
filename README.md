@@ -13,7 +13,7 @@
 # Toyota FJ Cruiser
 ![image](/images/ToyotaFJCruiser.jpg)
 ![image](/images/ToyotaFJCruiserDashboard1.jpg)
-![image](/images/ToyotaFJCruiserDashboard2.jpg)
+![image](/images/ToyotaFJCruiserDashboard2.JPG)
 
 # Subaru Outback
 ![image](/images/SubaruOutback.jpg)
