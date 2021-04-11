@@ -17,10 +17,10 @@ You can tell right away that the interface is really clean and not incredibly cl
 
 ![image](/images/HyundaiElantraDashboard2.jpg)
 
-Upon closer inspection it's easy to see that you may have some trouble reading this dashboard. What do the lights mean? When I was 16 and had just gotten this car, my low tire pressure light came on and I had no clue what it meant. I had to look at the user manual because the light doesn't really look like a low tire to me, with it just looking like an exclamation mark between two parentheses (!). While I can see it now, it's not what came to mind at first. Overall though, I think that the layout is simple and clean enough that it would be easy to learn, as was my experience. One of my favorite things is how the fuel gauge is actually a digital bar which is very intuitive to read. Just like water fills up a cup, the gas level will change appropriately on the vertical fuel gauge.
+This dashboard is very simple and clean. It utilizes the standard symbols for low tire pressure, oil, check engine, etc. The benefit of this is that it's easy to see when there's a problem and identify it. I particularly like how the gas level indicator is a vertical bar that increases and decreases with how much gas the car has. It's like a glass of water, when the cup is full, the bar is full. I find that very intuitive and visually pleasing. I also like how the information is visually split up so that everything isn't so cluttered on the dashboard. This reduces the time it takes me to find something that I need, especially if I need to see it while I'm driving.
 
-Pros: Simple layout, not too cluttered, gas gauge is very intuitive, aethetically pleasing
-Cons: Symbols aren't always easy to figure out, but can be remedied quickly by glancing at the user manual or a google search
+Pros: Very clean, maximizes simplicity, great use of intuitive displays
+Cons: Perhaps too simple for some 
 
 # Toyota FJ Cruiser
 ![image](/images/ToyotaFJCruiser.jpg)
@@ -33,15 +33,18 @@ Just like it's exterior, the interior is also rugged and simple. It has a few co
 
 ![image](/images/ToyotaFJCruiserDashboard2.JPG)
 
-I think this dashboard is probably as simple as it can be for a car today. I genuinely don't have any doubts about where or what things are, and it displays everything it needs to. However, the design is not as aesthetically appealing.
+I think this dashboard is probably as simple as it can be for a car today. I genuinely don't have any doubts about where or what things are, and it displays everything it needs to. However, I personally don't think the design is as visually appealing because it takes an older style approach.
 
 Pros: Simple, has everything you need, no guessing required
 Cons: Not very appealing design, though it corresponds to the ruggedness of the rest of the vehicle
 
 # Subaru Outback
 ![image](/images/SubaruOutback.jpg)
+The Subaru Outback is a good "Mom" car. It's got plenty of room, and a great dash display with an infotainment center/GPS. 
 ![image](/images/SubaruOutbackDashboard1.jpg)
+At first glance, I think that this setup doesn't look very hard to use. It's not cluttered, so everything is spaced out enough to where labels are adequately sized and easy to read. It's also very visually appealing.
 ![image](/images/SubaruOutbackDashboard2.jpg)
+The speedometer is large enough, and easy to read. However, I don't like that the gas indicator is very small and not as intuitive to read. The screen in the middle is difficult to read at first. It has an instantaneous gas milage indicator that constantly changes with respect to the driver's current actions, rather than just the average gas mileage indicator that takes the avergage of the instantaneous gas mileage. I think the reminder of "Keep Eyes on Road" is a bit stupid since there is a legitimate reason to be looking at the dashboard like for checking your speed, RPMs, or the fuel level. However, it's understandable in today's climate since there are many people that need reminders like this. On the bottom of the screen, the left will show what gear your car is in, like drive, reverse, neutral, etc. In the middle, it shows what trip it's on, such as trip A or trip B. On the right, the "eye" symbol indicates that the "eyesight" is on, which is a device that tells you when your car goes outside the lane boundaries, aids in parking, and can tell the distance of the car in front of you. Under that is presumably the milage count for the trip.
 
 # Tesla Model S
 ![image](/images/TeslaModelS.jpg)
