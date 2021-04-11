@@ -87,3 +87,11 @@ This interface looks very standard and not too exciting compared to other vehicl
 
 Pros: Relatively clean interface, it's similar to most other cars like this so it wouldn't be too hard to figure out
 Cons: annoying volume controls, cluttered steering wheel buttons
+
+# Most Common Car Dashboard Features
+
+Most commonly, the following features are found on a car dashboard: speedometer, tachometer, odometer, engine coolant temperature gauge, fuel gauge, turn indicators, gearshift position indicator, seltbelt warning light, parking-brake warning light, check engine light, low tire pressure indicator, cruise control indicator, oil indicator, gas milage indicator.
+
+The most commonly used features from these are the speedometer and the fuel gauge. If your car is manual, you will look at the dashboard more to check the gear that the car is in. After this, I think the engine coolant temperature gauge, odometer, tachometer, cruise control indicator, and turn indicators are the next most commonly used features. Although the seatbelt warning light and check engine light are important, they are used less often and many times a car will make noise whenever one of these lights come on.
+
+Common mistakes with the current designs are visually splitting up the information too much. I think it's helpful when all the indicator lights are in the same general area, or just to group up information/buttons by area in the first place. Another mistake is overcluttering of information. If it's too cluttered you will not be able to see the information as easily, and it will take your brain longer to "parse" the info. Also, when cars use nonstandard indicator lights it might be difficult to figure out what the issue is although that is easily fixed by looking at the user manual.
